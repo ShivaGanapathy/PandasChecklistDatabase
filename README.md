@@ -1,6 +1,6 @@
 # Checklist Maker
 I made this neat program in about an hour in order to create a way to orgranize my priorties with python this spring break. To use it, simply run it with python, input some of your activities, and keep track of your priorities!
-
+![](demo2.PNG)
 #  Repository Contents
 Example.csv is an example CSV file that was created from information I entered into the program.
 You can make your own csv files by inputting your own data in ChecklistMaker.ipynb
